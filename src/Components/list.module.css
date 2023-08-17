@@ -1,0 +1,19 @@
+/* body {
+    background-color: black;
+} */
+
+table,
+thead,
+tr,
+th {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    height: 40px;
+
+}
+
+table {
+    width: 100%;
+
+}
